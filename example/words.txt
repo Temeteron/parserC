@@ -1,0 +1,7 @@
+Bastard Operator From Hell (BOFH), a fictional character created by Simon Travaglia, is a rogue system administrator who takes out his anger on users (his colleagues, bosses and anyone who gets in his way).
+
+The BOFH stories were originally posted in 1992 to Usenet by Travaglia, with some being reprinted in Datamation. They were published weekly from 1995 to 1999 in Network Week and from 2000 they have been published most months in The Register. They were also published in PC Plus magazine for a short time, and several books of the stories have also been released.
+
+By extension, the term is also used to refer to any system administrator who displays (or wishes he could get away with) the qualities of the original. The term has become common Internet slang. In the stories the BOFH also spent a brief amount of time as a Bastard System Manager From Hell (BSMFH), however this has failed to pass into common usage online.
+
+In the stories, the PFY (Pimply-Faced Youth) is the assistant of the BOFH; this too has become a general term for a junior or trainee system administrator.
