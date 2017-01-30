@@ -9,7 +9,7 @@ Algorithm "parser.c"
 Makefile commands
 
 	make: compiles code
-	clear: deletes files
+	make clean: deletes files
 	make run: executes prog without args
 
 Run with args, executable file is "parser", input file words.txt, save the decoded text in myout1.txt
